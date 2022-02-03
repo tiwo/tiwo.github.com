@@ -1,0 +1,11 @@
+body {
+    background: rgb(59,0,170);
+    background: linear-gradient(90deg,
+        rgba(59,0,170,1) 0%,
+        rgba(19,19,180,1) 24%,
+        rgba(17,84,176,1) 51%,
+        rgba(0,212,255,1) 80%,
+        rgba(251,255,255,1) 100%);
+    color: #efa;
+    font-family: Arial, Helvetica, sans-serif;
+}
